@@ -1,7 +1,9 @@
 import numpy as np
 
 def general_constants():
-#  global G, M, AU, day, year
+    """
+    Define general constants: G, AU, M, day, year
+    """
   G=6.6743e-11
   AU=149.597871e9
   M=1.9891e30
